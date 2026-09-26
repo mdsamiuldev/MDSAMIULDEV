@@ -24,7 +24,7 @@
 
 <!-- ৪. ক্যানভা ডিজাইন প্লেসহোল্ডার (টেক স্ট্যাকের ঠিক উপরে) -->
 <div align="center">
-  <img src="YOUR_CANVA_IMAGE_URL_HERE" alt="MD. SAMIUL ISLAM Canva Banner" width="100%" />
+  <img src="https://canva.link/kx73kmffmw63ux5" alt="MD. SAMIUL ISLAM Canva Banner" width="100%" />
 </div>
 
 <br/>
