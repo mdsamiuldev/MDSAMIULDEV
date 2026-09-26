@@ -24,7 +24,8 @@
 
 <!-- ৪. ক্যানভা ডিজাইন প্লেসহোল্ডার (টেক স্ট্যাকের ঠিক উপরে) -->
 <div align="center">
-  <img src="https://canva.link/kx73kmffmw63ux5" alt="MD. SAMIUL ISLAM Canva Banner" width="100%" />
+  <img src="<img width="1200" height="480" alt="Yellow Black Modern Gradient Game Streaming Twitch Banner (1)" src="https://github.com/user-attachments/assets/c4ac2351-b782-4b29-a839-898c2666fede" />
+" alt="MD. SAMIUL ISLAM Canva Banner" width="100%" />
 </div>
 
 <br/>
