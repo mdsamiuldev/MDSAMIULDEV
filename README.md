@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- ১. কাস্টম সাইবার-ব্লু ব্যানার (স্বয়ংক্রিয়ভাবে রেন্ডার হবে) -->
+  <!-- ১. কাস্টম সাইবার ব্যানার -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d2ff&height=220&section=header&text=MD.%20SAMIUL%20ISLAM&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=00d2ff&strokeWidth=1" width="100%" alt="MD SAMIUL ISLAM Banner" />
 
   <br/><br/>
@@ -23,18 +23,25 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer who enjoys building modern, high-performance web applications.
+<div align="center">
+  <!-- আপনার ক্যানভা ফাইল/ইমেজের লিংক এখানে YOUR_CANVA_IMAGE_URL_HERE এর জায়গায় বসিয়ে দিবেন -->
+  <img src="YOUR_CANVA_IMAGE_URL_HERE" alt="MD. SAMIUL ISLAM Canva Design" width="100%" />
+</div>
 
-I love working with JavaScript, React, Next.js, and Tailwind CSS, and I'm always exploring new tools and technologies to improve my workflow.
+<br/>
 
-Currently, I'm focused on building modern full-stack web applications and expanding my skills.
+I'm a passionate developer who enjoys building modern, high-performance web applications[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span).
+
+I love working with JavaScript, React, Next.js, and Tailwind CSS, and I'm always exploring new tools and technologies to improve my workflow[span_5](start_span)[span_5](end_span)[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span).
+
+Currently, I'm focused on building modern full-stack web applications and expanding my skills[span_8](start_span)[span_8](end_span)[span_9](start_span)[span_9](end_span)[span_10](start_span)[span_10](end_span).
 
 #### 🎯 What I Love
-- 💻 **Web Development**
-- ⚛️ **React & Next.js Development**
-- 🧩 **Problem Solving**
-- 🚀 **Building Real-World Projects**
-- 📚 **Continuous Learning**
+- 💻 **Web Development**[span_11](start_span)[span_11](end_span)[span_12](start_span)[span_12](end_span)
+- ⚛️ **React & Next.js Development**[span_13](start_span)[span_13](end_span)[span_14](start_span)[span_14](end_span)[span_15](start_span)[span_15](end_span)
+- 🧩 **Problem Solving**[span_16](start_span)[span_16](end_span)[span_17](start_span)[span_17](end_span)
+- 🚀 **Building Real-World Projects**[span_18](start_span)[span_18](end_span)[span_19](start_span)[span_19](end_span)
+- 📚 **Continuous Learning**[span_20](start_span)[span_20](end_span)[span_21](start_span)[span_21](end_span)
 
 ---
 
@@ -67,16 +74,12 @@ Currently, I'm focused on building modern full-stack web applications and expand
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mdsamiuldev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mdsamiuldev&show_icons=true&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/mdsamiuldev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsamiuldev&layout=donut&theme=tokyonight&hide_border=false" />
-  </a>
+  <!-- ফিক্সড গিটহাব স্ট্যাটস ও ল্যাঙ্গুয়েজ কার্ড -->
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=mdsamiuldev&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdsamiuldev&layout=donut&theme=tokyonight&hide_border=false" />
 
   <br/><br/>
 
-  <a href="https://github.com/mdsamiuldev">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamiuldev&theme=tokyonight&hide_border=false" />
-  </a>
+  <!-- গিটহাব স্ট্রিক কার্ড -->
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamiuldev&theme=tokyonight&hide_border=false" />
 </div>
