@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d2ff&height=220&section=header&text=MD.%20SAMIUL%20ISLAM&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=00d2ff&strokeWidth=1" width="100%" alt="MD SAMIUL ISLAM Banner" />
+</div>
+<div align="center">
 
   <!-- ১. কভার/ব্যানার ছবি (ক্যানভা বা অন্য স্থান থেকে ডাউনলোড করে ছবি আপলোড করে তার লিংক নিচে দিবেন) -->
   <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="MD. SAMIUL ISLAM Banner" width="100%" />
