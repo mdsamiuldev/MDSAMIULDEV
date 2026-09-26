@@ -82,3 +82,45 @@ Currently, I'm focused on building modern full-stack web applications and expand
 
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamiuldev&theme=tokyonight&hide_border=false" />
 </div>
+
+
+<br />
+
+<div align="center">
+
+  <!-- টাইপিং অ্যানিমেশন: KEEP CODING, KEEP BUILDING -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+KEEP+CODING,+KEEP+BUILDING" alt="Keep Coding SVG" />
+
+  <br />
+
+  <!-- নাম -->
+  <h2>💻 MD. SAMIUL ISLAM</h2>
+
+  <hr width="80%" />
+
+  <!-- সাব-টাইটেল -->
+  <h4>🚀 BUILDING THE FUTURE ONE LINE AT A TIME</h4>
+
+  <p><i>⏳ Learn • Build • Improve • Repeat 🔄</i></p>
+
+  <p>Thanks for taking the time to explore my GitHub profile.<br />I love learning new technologies and building meaningful projects.</p>
+
+  <br />
+
+  <!-- ফুটার সোশ্যাল অ্যান্ড কন্টাক্ট বাটন -->
+  <p>
+    <a href="https://facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="mailto:samiul122344@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/mdsamiuldev" target="_blank"><img src="https://img.shields.io/badge/Explore_My_Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://samiul122344-del.github.io/fast-potfiloyo78/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=react&logoColor=black" /></a>
+  </p>
+
+  <p>Built with ❤️ and lots of code by <b>MD. SAMIUL ISLAM</b></p>
+  <p><i>"Code, Create, Contribute, Repeat"</i></p>
+
+  <br />
+
+  <!-- বটম রেন্ডার ব্যানার -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d2ff&height=120&section=footer&text=MD.%20SAMIUL%20ISLAM&fontSize=30&fontColor=ffffff" width="100%" alt="Footer Banner" />
+
+</div>
