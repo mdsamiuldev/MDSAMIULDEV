@@ -1,40 +1,40 @@
 <div align="center">
 
-  <!-- ১. কাস্টম ব্যানার (আপনার ফেস ও কাস্টম পিকচার সহ ব্যানারের লিঙ্ক এখানে বসাবেন) -->
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="MD. SAMIUL ISLAM Banner" width="100%" />
+  <!-- ১. কাস্টম সাইবার-ব্লু ব্যানার (স্বয়ংক্রিয়ভাবে রেন্ডার হবে) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d2ff&height=220&section=header&text=MD.%20SAMIUL%20ISLAM&fontSize=42&fontColor=ffffff&animation=fadeIn&stroke=00d2ff&strokeWidth=1" width="100%" alt="MD SAMIUL ISLAM Banner" />
 
   <br/><br/>
 
-  <!-- ২. টাইপিং অ্যানিমেশন (ছবির মতো) -->
+  <!-- ২. টাইপিং অ্যানিমেশন -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+MD.+SAMIUL+ISLAM;I+build+things+with+JavaScript,+React,+and+Next.js;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
   <br/>
 
-  <!-- ৩. সামাজিক মাধ্যম লিংক বাটন -->
+  <!-- ৩. সোশ্যাল লিংক বাটন -->
   <p>
     <a href="mailto:samiul122344@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://samiul122344-del.github.io/fast-potfiloyo78/"><img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=react&logoColor=black" /></a>
-    <a href="https://github.com/samiul122344-del"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/mdsamiuldev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
 </div>
 
-<hr/>
+---
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer who enjoys building modern, high-performance web applications[span_9](start_span)[span_9](end_span)[span_10](start_span)[span_10](end_span).
+I'm a passionate developer who enjoys building modern, high-performance web applications.
 
-I love working with JavaScript, React, Next.js, and Tailwind CSS, and I'm always exploring new tools and technologies to improve my workflow[span_11](start_span)[span_11](end_span)[span_12](start_span)[span_12](end_span)[span_13](start_span)[span_13](end_span).
+I love working with JavaScript, React, Next.js, and Tailwind CSS, and I'm always exploring new tools and technologies to improve my workflow.
 
-Currently, I'm focused on building modern full-stack web applications and expanding my skills[span_14](start_span)[span_14](end_span)[span_15](start_span)[span_15](end_span)[span_16](start_span)[span_16](end_span).
+Currently, I'm focused on building modern full-stack web applications and expanding my skills.
 
 #### 🎯 What I Love
-- 💻 **Web Development**[span_17](start_span)[span_17](end_span)[span_18](start_span)[span_18](end_span)
-- ⚛️ **React & Next.js Development**[span_19](start_span)[span_19](end_span)[span_20](start_span)[span_20](end_span)[span_21](start_span)[span_21](end_span)
-- 🧩 **Problem Solving**[span_22](start_span)[span_22](end_span)[span_23](start_span)[span_23](end_span)
-- 🚀 **Building Real-World Projects**[span_24](start_span)[span_24](end_span)[span_25](start_span)[span_25](end_span)
-- 📚 **Continuous Learning**[span_26](start_span)[span_26](end_span)[span_27](start_span)[span_27](end_span)
+- 💻 **Web Development**
+- ⚛️ **React & Next.js Development**
+- 🧩 **Problem Solving**
+- 🚀 **Building Real-World Projects**
+- 📚 **Continuous Learning**
 
 ---
 
@@ -67,26 +67,16 @@ Currently, I'm focused on building modern full-stack web applications and expand
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card & Top Languages Chart -->
-  <a href="https://github.com/samiul122344-del">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=samiul122344-del&show_icons=true&theme=tokyonight&hide_border=false" />
+  <a href="https://github.com/mdsamiuldev">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mdsamiuldev&show_icons=true&theme=tokyonight&hide_border=false" />
   </a>
-  <a href="https://github.com/samiul122344-del">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiul122344-del&layout=donut&theme=tokyonight&hide_border=false" />
+  <a href="https://github.com/mdsamiuldev">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsamiuldev&layout=donut&theme=tokyonight&hide_border=false" />
   </a>
 
   <br/><br/>
 
-  <!-- GitHub Streak Card -->
-  <a href="https://github.com/samiul122344-del">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=samiul122344-del&theme=tokyonight&hide_border=false" />
+  <a href="https://github.com/mdsamiuldev">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamiuldev&theme=tokyonight&hide_border=false" />
   </a>
-</div>
-
----
-
-### 📈 GitHub Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiul122344-del&theme=tokyonight" width="100%" />
 </div>
